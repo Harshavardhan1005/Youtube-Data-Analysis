@@ -9,5 +9,5 @@ title, publication time, tags, views, likes and dislikes, description, and comme
 are among the items included in the data. A category_id field, which differs by area, is
 also included in the JSON file linked to the region.
 
-
+## Architecture
 ![Alt text](Architecture.jpg?raw=true "Title")
