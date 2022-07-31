@@ -16,3 +16,5 @@ also included in the JSON file linked to the region.
 
 ## Architecture
 ![Alt text](Architecture.jpg?raw=true "Title")
+
+## Visualization using QuickSight
